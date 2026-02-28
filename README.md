@@ -2,13 +2,13 @@
 
 ## Cloud & DevOps Engineer
 
-Cloud & DevOps Engineer with 6+ years of experience designing, automating, and operating reliable cloud platforms, primarily in Azure with additional exposure to AWS. I enjoy building secure, scalable, and maintainable environments using Infrastructure as Code, CI/CD, and automation.
+Cloud & DevOps Engineer with 6+ years of experience designing, automating, and operating reliable cloud platforms. Supported cloud initiatives across Azure and AWS environments, contributing to infrastructure automation, delivery efficiency, and operational standardization. Passionate about building secure, scalable, and maintainable environments through Infrastructure as Code, CI/CD, and automation.
 
 - ☁️ Cloud: Azure, AWS
 - 🏗️ IaC: Terraform, Ansible
 - ⚙️ CI/CD: GitLab CI/CD, Azure DevOps
 - 🐍 Scripting: Python, Bash, PowerShell
-- 🐳 Containers: Docker
+- ☸️ Containers & Orchestration: Docker, Kubernetes
 - 📊 Monitoring: Grafana, Splunk, Dynatrace
 - 🖥️ Systems: Linux, Windows
 - 🛢️ Databases: MySQL, PostgreSQL, MongoDB
@@ -47,6 +47,7 @@ Cloud & DevOps Engineer with 6+ years of experience designing, automating, and o
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
