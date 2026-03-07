@@ -2,7 +2,7 @@
 
 ## Cloud & DevOps Engineer
 
-Cloud & DevOps Engineer with 6+ years of experience designing, automating, and operating reliable cloud platforms. Supported cloud initiatives across Azure and AWS environments, contributing to infrastructure automation, delivery efficiency, and operational standardization. Passionate about building secure, scalable, and maintainable environments through Infrastructure as Code, CI/CD, and automation.
+Cloud & DevOps Engineer with 6+ years of experience designing, automating, and operating reliable cloud platforms. Supported cloud initiatives using Azure and AWS environments, contributing to infrastructure automation, delivery efficiency, and operational standardization. Passionate about building secure, scalable, and maintainable environments through Infrastructure as Code, CI/CD, and automation.
 
 - ☁️ Cloud: Azure, AWS
 - 🏗️ IaC: Terraform, Ansible
